@@ -1,2 +1,1 @@
-# unlearning
-tf.keras implementation of "Learning Not to Learn: Training Deep Neural Networks with Biased Data"
+Keras implementation of gradient reversal for debiasing/unlearning metadata from a dataset.
