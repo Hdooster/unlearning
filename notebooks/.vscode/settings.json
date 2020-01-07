@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/rv-hdoosterlinck/.conda/envs/rvai/bin/python"
+    "python.pythonPath": "/home/rv-hdoosterlinck/.conda/envs/rvai/bin/python",
+    "files.watcherExclude": {
+        "**/model_training/**": true,
+        "**/data/**": true,        
+    }
 }
